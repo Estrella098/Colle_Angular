@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.all-content{
+    background: pink;
+
+}
+
+.navbar{
+    background-color: #54162B;
+    padding-left: 30px;
+    font-weight: bold;
+    padding:20px;
+}
+
+#logo{
+    font-size: 25px;
+    text-shadow: 1px 1px 1px black;
+    color: white;
+}
+
+#logo img{
+    margin-bottom: 10px;
+
+}
+
+.navbar-nav{
+    margin-left: 10px;
+}
+
+.nav-item .nav-link{
+    color: white;
+    text-shadow:1px 1px 1px black;
+    font-weight: bold;
+    margin-left: 20px;
+    transition: 0.5s ease;
+    font-size: 20px;
+   
+}
+.icons{
+    margin-left: 60px;
+}
+.icons img{
+    margin-left: 15px;
+    transition: 0,5s  ease;
+    cursor: pointer;
+    
+
+}
